@@ -19,5 +19,7 @@
     in one application. Also known as Wrapper pattern.
 #### Bridge
     Decouple an abstraction or interface from its implementation so that the two can vary independently.
+#### Composite
+    Build a complex object out of elemental objects and itself like a tree structure.
 
 ### Behavioral Patterns
