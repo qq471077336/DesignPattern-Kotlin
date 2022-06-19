@@ -17,5 +17,7 @@
 #### Adapter
     Convert the existing interfaces to a new interface to achieve compatibility and reusability of the unrelated classes
     in one application. Also known as Wrapper pattern.
+#### Bridge
+    Decouple an abstraction or interface from its implementation so that the two can vary independently.
 
 ### Behavioral Patterns
