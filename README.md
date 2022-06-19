@@ -14,5 +14,8 @@
     One instance of a class or one value accessible globally in an application.
     
 ### Structural Patterns
+#### Adapter
+    Convert the existing interfaces to a new interface to achieve compatibility and reusability of the unrelated classes
+    in one application. Also known as Wrapper pattern.
 
 ### Behavioral Patterns
