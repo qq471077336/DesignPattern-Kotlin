@@ -21,5 +21,7 @@
     Decouple an abstraction or interface from its implementation so that the two can vary independently.
 #### Composite
     Build a complex object out of elemental objects and itself like a tree structure.
+#### Decorator
+    add additional features or behaviors to a particular instance of a class, while not modifying the other instances of same class
 
 ### Behavioral Patterns
