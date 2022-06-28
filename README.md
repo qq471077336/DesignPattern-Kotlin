@@ -23,5 +23,8 @@
     Build a complex object out of elemental objects and itself like a tree structure.
 #### Decorator
     add additional features or behaviors to a particular instance of a class, while not modifying the other instances of same class
+#### Chain of Responsibility
+    Let more than one object handle a request without their knowing each other. Pass the request to chained objects until
+    it has been handled.
 
 ### Behavioral Patterns
