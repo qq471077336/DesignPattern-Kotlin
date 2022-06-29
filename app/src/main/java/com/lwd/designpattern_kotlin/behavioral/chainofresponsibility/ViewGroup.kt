@@ -1,4 +1,4 @@
-package com.lwd.designpattern_kotlin.structural.chainofresponsibility
+package com.lwd.designpattern_kotlin.behavioral.chainofresponsibility
 
 import android.view.MotionEvent
 
