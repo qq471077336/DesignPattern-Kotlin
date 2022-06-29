@@ -31,3 +31,6 @@
 #### Command
     Streamlize objects by providing an interface to encapsulate a request and make the interface implemented by subclasses
     in order to parameterize the clients.
+#### Mediator
+    Decouple the direct communication between objects by introducing a middle object, the mediator, that facilitates the 
+    communication between the objects.
